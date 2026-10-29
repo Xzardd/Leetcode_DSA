@@ -10,7 +10,7 @@ Each solution represents a step forward in my problem-solving journey.
 
 ## My DSA Level
 
-**Current Level:** Beginner to Intermediate
+**Current Level:** Beginner
 
 **Focus:** Building strong fundamentals and improving problem-solving efficiency.
 
